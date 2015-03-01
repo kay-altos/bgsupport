@@ -1,0 +1,1 @@
+runasuser -u Администратор -p Gorta377 -d kompleks.local 

@@ -1,0 +1,16 @@
+c:\users\admin\documents\visual studio 2013\Projects\imggen\imggen\bin\Debug\imggen.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\imggen\imggen\bin\Debug\imggen.exe
+c:\users\admin\documents\visual studio 2013\Projects\imggen\imggen\bin\Debug\imggen.pdb
+c:\users\admin\documents\visual studio 2013\Projects\imggen\imggen\obj\Debug\imggen.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\imggen\imggen\obj\Debug\imggen.exe
+c:\users\admin\documents\visual studio 2013\Projects\imggen\imggen\obj\Debug\imggen.pdb
+c:\users\admin\documents\visual studio 2013\Projects\imggen\imggen\obj\Debug\imggen.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\imggen\imggen\obj\Debug\imggen.csproj.GenerateResource.Cache
+D:\imggen_0.2\imggen\imggen\bin\Debug\imggen.exe.config
+D:\imggen_0.2\imggen\imggen\obj\Debug\imggen.exe
+D:\imggen_0.2\imggen\imggen\obj\Debug\imggen.pdb
+D:\imggen_0.2\imggen\imggen\bin\Debug\imggen.exe
+D:\imggen_0.2\imggen\imggen\bin\Debug\imggen.pdb
+D:\imggen_0.2\imggen\imggen\obj\Debug\imggen.csprojResolveAssemblyReference.cache
+D:\imggen_0.2\imggen\imggen\obj\Debug\imggen.Properties.Resources.resources
+D:\imggen_0.2\imggen\imggen\obj\Debug\imggen.csproj.GenerateResource.Cache

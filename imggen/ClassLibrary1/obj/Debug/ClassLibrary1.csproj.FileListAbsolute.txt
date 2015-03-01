@@ -1,0 +1,4 @@
+D:\imggen_0.2\imggen\ClassLibrary1\bin\Debug\rb.dll
+D:\imggen_0.2\imggen\ClassLibrary1\bin\Debug\rb.pdb
+D:\imggen_0.2\imggen\ClassLibrary1\obj\Debug\rb.dll
+D:\imggen_0.2\imggen\ClassLibrary1\obj\Debug\rb.pdb
